@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "YRqxKc3vKtlEeZn1/4Y4AUwFSa9pcjE2HXJLsil/YkU=",
+  "Source": "FreakyFashionService.ApiGateway",
+  "BasePath": "_content/FreakyFashionService.ApiGateway",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
